@@ -1,70 +1,222 @@
-# Getting Started with Create React App
+# 💻 Yoga Ibrahim - Terminal Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-In the project directory, you can run:
+**🚀 Interactive Terminal-Style Portfolio**
 
-### `npm start`
+*Data Analyst • Python • SQL • PowerBI*
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[🔗 **LIVE DEMO**](https://yoga-terminal-portfolio.vercel.app) • [📧 Contact](mailto:yoga.ibh@gmail.com) • [💼 LinkedIn](https://linkedin.com/muhamadyogaibra/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Portfolio Preview](https://via.placeholder.com/800x400/000000/00FF00?text=YOGA-TERMINAL+v2.0.1)
 
-### `npm test`
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🎯 **What Makes This Portfolio UNIQUE**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This isn't just another portfolio website - it's a **fully interactive terminal experience** that showcases my Data Analyst expertise through:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+✨ **Interactive Terminal Interface** - Type real commands like a pro  
+📊 **Live System Dashboard** - Real-time monitoring with animated stats  
+🌧️ **Matrix Rain Effects** - Aesthetic background animations  
+⚡ **Instant Command Processing** - Lightning-fast response system  
+📱 **Fully Responsive** - Perfect on mobile, tablet, and desktop  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🕹️ **Try These Commands**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Open the [live demo](https://yoga-terminal-portfolio.vercel.app) and type:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+help        # Show all available commands
+about       # Learn about my background
+skills      # View technical skills with progress bars
+experience  # Browse work history and achievements
+projects    # Explore featured projects
+education   # Academic credentials & certifications
+contact     # Get my contact information
+stats       # Real-time system performance
+dashboard   # Switch to monitoring interface
+matrix      # Special effects mode
+clear       # Clear terminal output
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🛠️ **Technical Features**
 
-## Learn More
+### **Core Technologies**
+- **React 18** with modern Hooks
+- **Tailwind CSS** for styling and animations
+- **Lucide React** for professional icons
+- **Vanilla JavaScript** for terminal logic
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### **Advanced Features**
+- ⚡ Real-time state management
+- 🔄 Auto-boot sequence on first load
+- 📊 Dynamic data visualization
+- 🎨 Smooth CSS transitions
+- 📱 Mobile-responsive design
+- ⌨️ Keyboard navigation support
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### **Performance Optimizations**
+- Efficient component re-rendering
+- Optimized animation loops
+- Lightweight bundle size
+- Fast loading times
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📊 **Professional Highlights**
 
-### Analyzing the Bundle Size
+```
+🎯 Data Analyst specializing in Environmental & Geopolitical Analytics
+📈 3+ years experience processing 175,000+ hourly data points
+🐍 Expert in Python, SQL, PowerBI, ArcGIS, Excel
+🌍 Proven track record in weather modification & air quality analysis
+⚡ Achieved 40% efficiency improvement in reporting workflows
+🏆 Conference presenter & competition finalist
+📍 Based in Bogor, Indonesia • Available for hire
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 🚀 **Live Demo Experience**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**What You'll See:**
+1. **Boot Sequence** - Watch the system initialize
+2. **Interactive Terminal** - Type commands and explore
+3. **Dashboard Mode** - Real-time monitoring interface
+4. **Matrix Effects** - Aesthetic background animations
+5. **Professional Data** - Complete portfolio information
 
-### Advanced Configuration
+**Perfect for:**
+- 👔 **Recruiters & HRDs** - Memorable first impression
+- 💻 **Fellow Developers** - Showcasing React skills
+- 🎯 **Networking** - Conversation starter guaranteed
+- 📈 **Portfolio Reviews** - All info in engaging format
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 🔧 **Local Development**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Want to run this locally? Here's how:
 
-### `npm run build` fails to minify
+```bash
+# Clone repository
+git clone https://github.com/yogaibhh/yoga-terminal-portfolio.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Navigate to project
+cd yoga-terminal-portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+
+# Open browser to http://localhost:3000
+```
+
+**Requirements:**
+- Node.js 16+ and npm
+- Modern browser with JavaScript enabled
+
+---
+
+## 📁 **Project Structure**
+
+```
+yoga-terminal-portfolio/
+├── public/
+│   └── index.html          # HTML template with Tailwind CDN
+├── src/
+│   ├── App.js             # Main terminal component
+│   ├── index.js           # React entry point
+│   └── index.css          # Global styles
+├── package.json           # Dependencies and scripts
+└── README.md             # This file
+```
+
+---
+
+## 🎨 **Design Philosophy**
+
+This portfolio bridges the gap between **technical demonstration** and **professional presentation**:
+
+- **Terminal Interface** → Shows comfort with command-line tools
+- **React Implementation** → Demonstrates modern JavaScript skills  
+- **Data Visualization** → Reflects analytical mindset
+- **Interactive Experience** → Engages visitors effectively
+- **Professional Content** → Presents qualifications clearly
+
+---
+
+## 📱 **Responsive Design**
+
+Optimized viewing experience across all devices:
+
+- 📱 **Mobile** (320px+): Touch-friendly command buttons
+- 💻 **Tablet** (768px+): Balanced layout with readable text
+- 🖥️ **Desktop** (1024px+): Full terminal experience with dashboard
+
+---
+
+## 🌟 **Key Achievements Showcased**
+
+- **PT Pixel Digital** - Geopolitical Analytics & Simulation Systems
+- **Anugerah Wisesa Selaras** - Weather Data Processing (480+ hours)
+- **PIAREA Environment** - Air Quality Analysis (175K+ data points)
+- **IPB University** - Applied Meteorology Degree (GPA 3.67/4.00)
+- **DataCamp Certifications** - SQL, Excel, Python, PowerBI
+- **Conference Presentations** - Indonesian Aerosol Association
+
+---
+
+## 📧 **Get In Touch**
+
+**Ready to discuss how data can transform your business?**
+
+**Muhamad Yoga Ibrahim**  
+🎯 **Data Analyst** • Environmental & Geopolitical Analytics  
+📍 **Location:** Bogor, Indonesia  
+📧 **Email:** yoga.ibh@gmail.com   
+💼 **LinkedIn:** [linkedin.com/muhamadyogaibra](https://linkedin.com/muhamadyogaibra/)  
+💻 **GitHub:** [github.com/yogaibhh](https://github.com/yogaibhh)  
+🌐 **Portfolio:** [tiny.cc/portofolioyoga](http://tiny.cc/portofolioyoga)  
+
+---
+
+## 📈 **Current Status**
+
+```bash
+yoga@portfolio:~$ status
+STATUS: ✅ Available for hire
+RESPONSE: ⚡ < 24 hours  
+TIMEZONE: 🌏 WIB (UTC+7)
+SPECIALIZATION: 📊 Data Analytics, Python, SQL, Visualization
+INDUSTRIES: 🌍 Environmental, Geopolitical, Weather Systems
+```
+
+---
+
+<div align="center">
+
+**⚡ Built with React • Styled with Tailwind • Powered by Passion**
+
+*If this terminal impressed you, imagine what I can do with your data! 🚀*
+
+**[🔗 EXPLORE THE LIVE TERMINAL](https://yoga-terminal-portfolio.vercel.app)**
+
+---
+
+*© 2025 Muhamad Yoga Ibrahim • Open Source • MIT License*
+
+</div>
